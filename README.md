@@ -2,7 +2,7 @@
 Pnina Loberbom
 ===============================================================================
 
-    Junior software developer
+    Software Developer
     --------------------------
     High work ethic with self-learning ability.
     Creative thinking and excellent teamwork by using great interpersonal skills.
@@ -17,6 +17,6 @@ Python, Java, C, C++
 - #### Databases:
 SQL, Mongo DB
 - #### Full Stack Developing:
-React, Node JS, CSS, JS, HTML
+**Appian,** React, Node JS, CSS, JS, HTML
 - #### Operating Systems:
 Windows, Linux
